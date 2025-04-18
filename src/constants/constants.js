@@ -63,16 +63,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2019, text: "Started my journey" },
-  { year: 2019, text: "Got my first Job" },
-  { year: 2020, text: "Got my forst job with October and Wordpress" },
-  { year: 2020, text: "started my first proejct as Vue Developer" },
-  {
-    year: 2021,
-    text: "started my remote job and stared working on my own projects ",
-  },
-  {
-    year: 2021,
-    text: "Did some social work helping people to improve their businesses' online presence",
-  },
+  { year: 2020, text: "Started building fullstack apps using React, Node.js, and PHP at Capybara Technologies." },
+  { year: 2021, text: "Improved performance and UX for a fitness platform serving 10k+ users at GlobalPro Fit." },
+  { year: 2022, text: "Developed large-scale cloud apps on AWS and Azure for Deloitte and Cidenet." },
+  { year: 2024, text: "Built real-time pharmacy management tools with WebSockets at ShiftRx." },
+  { year: 2024, text: "Led frontend and API optimization on enterprise platforms at Altimetrik." },
 ];
